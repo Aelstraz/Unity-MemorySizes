@@ -1,4 +1,4 @@
-# Memory Sizes
+# Unity-MemorySizes
 
 MemorySizes provides utility methods to determine the size of structs and different texture/graphics/rendertexture formats.
 
